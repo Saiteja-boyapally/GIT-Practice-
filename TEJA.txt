@@ -1,3 +1,4 @@
 ## BOYAPALLY SAI TEJA
 
-This is for Git & GitHub Practice Text.
+This is for Git & GitHub practice
+Text.
